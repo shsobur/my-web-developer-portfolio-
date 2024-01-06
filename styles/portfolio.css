@@ -259,9 +259,9 @@ nav {
 /* Third-page_contain styleing <-- */
 
 .Resume_contain-page {
-  height: 100vh;
+  height: auto;
   width: 100%;
-  background-color: cornflowerblue;
+  background-color: rgb(246, 253, 255);
 }
 .Resume_contain-page h3{
   text-align: center;
@@ -269,4 +269,60 @@ nav {
   font-size: 35px;
   font-weight: 700;
   padding-top: 20px;
+}
+.chart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 220px;
+}
+.colum-1 {
+  margin-top: 100px;
+}
+.colum-1 h2{
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+.colum-2 {
+  margin-top: 100px;
+}
+.colum-2 h2{
+  color: #474747;
+  font-size: 30px;
+  font-weight: 700;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+.data {
+  height: 200px;
+  width: 400px;
+  margin-bottom: 20px;
+  background-color: rgb(254, 254, 254);
+  box-shadow: 6px 6px 10px rgb(128, 128, 128);
+}
+.data h3{
+  color: #474747;
+  font-size: 25px;
+  font-weight: 700;
+  text-align: left;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+.data h4 {
+  color: #757575;
+  font-size: 20px;
+  font-weight: 600;
+  padding-bottom: 20px;
+  padding-left: 10px;
+}
+.data p{
+  color: #757575;
+  font-size: 16px;;
+  font-weight: 400;
+  line-height: 28px;
+  padding-bottom: 10px;
+  padding-left: 10px;
 }
