@@ -5,7 +5,7 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
-/* Nave bar styleing--> */
+/* Nave-bar styleing--> */
 
 nav {
   height: 100px;
@@ -40,7 +40,7 @@ nav {
   text-decoration: none;
   color: #474747;
 }
-.pry-but {
+.primary-button {
   height: 8vh;
   width: 11vw;
   font-size: 1.3vw;
@@ -51,9 +51,9 @@ nav {
   color: #ffffff;
 }
 
-/* Nave bar styleing <-- */
+/* Nave-bar styleing <-- */
 
-/* Home contain styleing--> */
+/* Home-page_contain styleing--> */
 
 .home-contain{
   height: calc(100vh - 100px);
@@ -101,9 +101,9 @@ nav {
   margin-left: 180px;
 }
 
-/* Home contain styleing <-- */
+/* Home-page_contain styleing <-- */
 
-/* Secomd contain styling--> */
+/* Secomd-page_contain styling--> */
 
 .second-page {
   height: 100vh;
@@ -122,11 +122,11 @@ nav {
   justify-content: center;
   background-color: #fff8f3;
 }
-.about-art h2{
+.about-artical h2{
   text-align: center;
   padding-bottom: 30px;
 }
-.about-art p{
+.about-artical p{
   text-align: center;
   padding: 0 110px;
   color: #aaa7a5;
@@ -149,4 +149,4 @@ nav {
   color: #474747;
 }
 
-/* Secomd contain styling <-- */
+/* Secomd-page_contain styling <-- */
