@@ -150,3 +150,123 @@ nav {
 }
 
 /* Secomd-page_contain styling <-- */
+
+/* Third-page_contain styleing--> */
+
+.what-i-do {
+  height: 100vh;
+  width: 100%;
+  background-color: #f3f3f3;
+}
+.what-ido-paragraph{
+  text-align: center;
+}
+.what-ido-paragraph h3{
+  font-size: 35px;
+  font-weight: 700;
+  padding-top: 10px;
+}
+.what-ido-paragraph p{
+  color: #757575;
+  font-size: 18px;
+  padding: 10px 170px;
+  line-height: 30px;
+}
+
+.skill {
+  padding-top: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-around;
+}
+.skill-1 {
+  width: 265px;
+  height: 370px;
+  border-radius: 5px;
+  background: #FFF;
+  padding: 30px 30px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.skill-1 img {
+  padding-bottom: 30px;
+}
+.skill-1 h4{
+  padding-bottom: 30px;
+}
+.skill-1 p{
+  font-size: 16px;
+  line-height: 28px;
+  color: #757575;
+}
+.skill-2 {
+  width: 265px;
+  height: 370px;
+  border-radius: 5px;
+  background: #FFF;
+  padding: 30px 30px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.skill-2 img {
+  padding-bottom: 30px;
+}
+.skill-2 h4{
+  padding-bottom: 30px;
+}
+.skill-2 p{
+  font-size: 16px;
+  line-height: 28px;
+  color: #757575;
+}
+.skill-3 {
+  width: 265px;
+  height: 370px;
+  border-radius: 5px;
+  background: #FFF;
+  padding: 30px 30px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.skill-3 img {
+  padding-bottom: 30px;
+}
+.skill-3 h4{
+  padding-bottom: 30px;
+}
+.skill-3 p{
+  font-size: 16px;
+  line-height: 28px;
+  color: #757575;
+}
+.skill-4 {
+  width: 265px;
+  height: 370px;
+  border-radius: 5px;
+  background: #FFF;
+  padding: 30px 30px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+.skill-4 img {
+  padding-bottom: 30px;
+}
+.skill-4 h4{
+  padding-bottom: 30px;
+}
+.skill-4 p{
+  font-size: 16px;
+  line-height: 28px;
+  color: #757575;
+}
+/* Third-page_contain styleing <-- */
+
+.Resume_contain-page {
+  height: 100vh;
+  width: 100%;
+  background-color: cornflowerblue;
+}
+.Resume_contain-page h3{
+  text-align: center;
+  color: #181818;
+  font-size: 35px;
+  font-weight: 700;
+  padding-top: 20px;
+}
